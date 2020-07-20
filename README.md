@@ -16,12 +16,12 @@ Description of each of the 10 parameters of the cell nuclei :
 		#compactness      : given by combining perimeter and area of cell nuclei by using formula (perimeter)^2/area
 		#concavity        : measure of number and severity of concavities or indentations in a cell nucleus.      
 		#concave points   : measures the number rather than magnitude of contour concavities 
-		#symmetry         : measured by calculating length differences between lines perpendicular to major axis or longest hord through center to the cell boundary in both directions
+		#symmetry         : measured by calculating length differences between lines perpendicular to major axis or longest hord through center to the cell 					boundary in both directions
 		#fractal dimension: is calculated using the coastline approximation by calculating “coastline approximation” - 1
 		
 Below are the list of works that have been as a part fo this project :
 
 		1. Applied two classifier models, Decision Trees and Support Vector Machines to classify breast cancer
 		   from a set of characteristics of the cell nuclei in an image of a fine needle aspirate of a breast mass.
-		2. Compared the two different classifiers and used hyper parameter optimisation, contour plots and 
+		2. Compared the two different classifiers and used hyper parameter optimisation and 
 		   scatter plots for observation.
